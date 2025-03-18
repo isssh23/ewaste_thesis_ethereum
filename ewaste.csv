@@ -1,0 +1,24 @@
+Device,Metal,Content(kg/ton),Recovery Efficiency(%),Recoverable Amount(kg),Market Price(USD/kg),Value(USD),Recovery Cost(%),Recovery Cost(USD),Net Value(USD)
+Mobile Phone,Gold,0.3,95,0.285,84750,24108.75,8,1978.7,22180.05
+Mobile Phone,Silver,1,90,0.9,963,866.7,8,69.34,797.36
+Mobile Phone,Copper,150,85,127.5,9.07,1156.43,20,231.29,925.14
+Mobile Phone,Palladium,0.02,90,0.018,28800,518.4,8,41.47,476.93
+Mobile Phone,Aluminium,40,85,34,2.49,84.66,20,16.93,67.73
+Mobile Phone,Iron,200,90,180,0.1,18,20,3.6,14.4
+Mobile Phone,Nickel,5,80,4,15.21,60.84,20,12.17,48.67
+Mobile Phone,Zinc,3,80,2.4,2.9,6.96,20,1.39,5.57
+Mobile Phone,Lead,2,75,1.5,1.94,2.91,20,0.58,2.33
+Mobile Phone,Tin,1,70,0.7,29.94,20.96,20,4.19,16.77
+Laptop,Gold,0.09,63,0.057,84750,4829.78,8,386.38,4443.4
+Laptop,Silver,0.2,63,0.126,963,121.34,8,9.71,111.63
+Laptop,Copper,68.5,85,58.4,9.07,529.09,20,105.82,423.27
+Laptop,Palladium,0.05,63,0.0315,28800,907.2,8,72.58,834.62
+Laptop,Aluminium,84.4,75,63.7,2.49,158.61,20,31.72,126.89
+Laptop,Iron,142,86,122,0.1,12.2,20,2.44,9.76
+Laptop,Nickel,25,90,22.5,15.21,342.23,20,68.45,273.78
+Laptop,Zinc,4,90,3.6,2.9,10.44,20,2.09,8.35
+Laptop,Lead,5,90,4.5,1.94,8.73,20,1.75,6.98
+Laptop,Tin,8,90,7.2,29.94,215.57,20,43.11,172.46
+Laptop,Cobalt,20,90,18,15.21,273.78,20,54.76,219.02
+Laptop,Chromium,2,90,1.8,15.21,27.38,20,5.48,21.9
+Laptop,Magnesium,10,90,9,2.49,22.41,20,4.48,17.93
